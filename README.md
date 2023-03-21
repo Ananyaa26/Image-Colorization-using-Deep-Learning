@@ -47,7 +47,7 @@ The **decoder** predicts the 2 channels of colors for the image.
 4)Convert the LAB image back to RGB.
 ```
 
-<img width="445" alt="image" src="https://user-images.githubusercontent.com/89255668/226543137-d460f72f-c8b2-47a5-8f81-fbd40e5b0233.png">                                                                         <img width="505" alt="image" src="https://user-images.githubusercontent.com/89255668/226546997-4aefedf1-5d25-47ea-b2ab-807d997d99c7.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89255668/226543137-d460f72f-c8b2-47a5-8f81-fbd40e5b0233.png">                                                                         <img width="455" alt="image" src="https://user-images.githubusercontent.com/89255668/226546997-4aefedf1-5d25-47ea-b2ab-807d997d99c7.png">
 
 # Observations
 There was a huge range in accuracy with slightest variation in number of
